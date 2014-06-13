@@ -1,4 +1,8 @@
-
+/*
+ *	name:	line
+ *	author:	lisper (leyapin@dfrobot.com)
+ *	license:	GPL3
+ */
 
 #include <stdio.h>
 #include <stdlib.h>
